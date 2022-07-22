@@ -1,6 +1,6 @@
 body {
     background-color: white;
-    animation: dayToNight 10s infinite 1.5s;
+    animation: dayToNight 10s infinite 1.4s;
 }
 
 .content {
@@ -26,7 +26,7 @@ body {
     background-color: white;
     top: -5px;
     left: 0px;
-    animation: moveshadow 10s infinite 1.5s;
+    animation: moveshadow 10s infinite 1.4s;
 }
 
 @keyframes moveshadow {
